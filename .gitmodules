@@ -1,0 +1,3 @@
+[submodule "deps/base-sh-lib"]
+	path = deps/base-sh-lib
+	url = git@github.com:ev-kotov/base-sh-lib.git
